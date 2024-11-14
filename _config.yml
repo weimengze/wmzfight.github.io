@@ -24,9 +24,9 @@ author:
   avatar           : "wmz_photo.png"
   name             : "Mengze Wei"
   pronouns         : # example: "she/her"  
-  bio              : "这是测试"
-  location         : "Beijing"
-  employer         : "USTB"
+  bio              : "University of Science and Technology Beijing"
+  location         : "Beijing,China"
+  employer         : # "USTB"
   uri              : # URL
   email            : "15617361950@163.com" 
 
