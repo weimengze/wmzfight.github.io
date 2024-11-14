@@ -11,6 +11,28 @@ redirect_from:
 
 Education
 ======
+* M.S. in SCCE, USTB, 2023-2026 (expected)
+* B.S. in SCCE, USTB, 2019-2023
+
+Work experience
+======
+* I haven't written it yet
+  
+Skills
+======
+* I haven't written it yet
+
+Others
+======
+* CET-4（586）；CET-6（482）
+
+
+
+
+
+
+<!-- Education
+======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
@@ -61,4 +83,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
