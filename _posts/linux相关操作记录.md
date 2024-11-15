@@ -18,7 +18,6 @@ tags:
 - screen -ls
 - screen -R wmz
 - Ctrl +A+D
-- Ctrl+A [ 查看翻页
 - screen -r wmz
 
 ## 开启或关闭局域网代理
