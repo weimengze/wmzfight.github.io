@@ -15,7 +15,7 @@ redirect_from:
    {% unless written_year == 'None' %}
       <hr> <!-- 添加水平线 -->
     {% endunless %}
-    <h3 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h3>
+    <p id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</p>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
