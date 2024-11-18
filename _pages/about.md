@@ -23,7 +23,7 @@ May AI be with us as we embark on this exciting journey of innovation and discov
 
 ====================
 
-嗨！我是一名[北京科技大学](http://www.ustb.edu.cn/)[计算机与通信工程学院](http://scce.ustb.edu.cn/)硕士二年级学生，我的研究兴趣包括多模态大模型、计算机视觉、版面分析和机器学习。
+嗨！我是一名[北京科技大学](http://www.ustb.edu.cn/) [计算机与通信工程学院](http://scce.ustb.edu.cn/)硕士二年级学生，我的研究兴趣包括多模态大模型、计算机视觉、版面分析和机器学习。
 
 我充满passion，乐于接受挑战。在学术之外，我热爱摄影和旅行，我相信每一张照片和每一段走过的路都是独一无二的视角和体验，正如喂给AI的数据一样，我们也在接受着来自繁杂世界的“data”。
 
