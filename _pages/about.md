@@ -21,6 +21,14 @@ May AI be with us as we embark on this exciting journey of innovation and discov
 
 [Email](mailto:15617361950@163.com) / [Github](https://github.com/wmzfighting) 
 
+====================
 
+嗨！我是一名北京科技大学计算机与通信工程学院硕士二年级学生，我的研究兴趣包括多模态大模型、计算机视觉、版面分析和机器学习。
+
+我充满passion，乐于接受挑战。在学术之外，我热爱摄影和旅行，我相信每一张照片和每一段走过的路都是独一无二的视角和体验，正如喂给AI的数据一样，我们也在接受着来自繁杂世界的“data”。
+
+欢迎与我沟通交流！
+
+我的 [邮箱](mailto:15617361950@163.com) / [Github主页](https://github.com/wmzfighting) 
 
 <!-- / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343) -->
